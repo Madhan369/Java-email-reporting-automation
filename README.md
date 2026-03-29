@@ -1,6 +1,6 @@
-# 📧 Java Email Sender with Attachment
+# 📧 Automated Email Reporting System using Java (Jakarta Mail)
 
-This project demonstrates how to send emails using the **Jakarta Mail API** in Java.
+This project demonstrates how to send automated emails using the **Jakarta Mail API** in Java.
 It supports sending **text emails with file attachments** (like Extent Reports).
 
 ---
@@ -23,6 +23,13 @@ It supports sending **text emails with file attachments** (like Extent Reports).
 * Maven
 
 ---
+
+## 🎯 Why This Project?
+
+In real-world QA automation, test reports need to be shared automatically with stakeholders.  
+This project simulates that scenario by sending Extent Reports via email after execution.
+
+---     
 
 ## 📦 Maven Dependency
 
